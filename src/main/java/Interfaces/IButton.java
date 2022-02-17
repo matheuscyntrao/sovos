@@ -4,6 +4,4 @@ public interface IButton {
 
     void click();
 
-    boolean isDisplayed();
-
 }

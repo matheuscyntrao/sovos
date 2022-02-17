@@ -22,7 +22,4 @@ public class Button implements IButton {
         return this.element.isDisplayed();
     }
 
-    public String getAttribute(String attribute) {
-        return this.element.getAttribute(attribute);
-    }
 }
